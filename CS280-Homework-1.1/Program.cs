@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace CS280_Homework_1._1
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("hello world");
         }
